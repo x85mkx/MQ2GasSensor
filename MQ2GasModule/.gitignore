@@ -1,0 +1,52 @@
+# Maven files
+pom.xml
+dependency-reduced-pom.xml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+
+# Eclipse specific settings
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific settings
+*.iml
+.idea/
+out/
+
+# VS Code specific settings
+.vscode/
+
+# NetBeans specific settings
+nbproject/private/
+build/
+nbbuild/
+dist/
+.nbm/
+
+# MacOS specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
